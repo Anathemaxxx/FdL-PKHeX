@@ -94,7 +94,7 @@ Skill Link
 Hydration
 Solar Power
 Quick Feet
-Normalize
+Normalize Old
 Sniper
 Magic Guard
 No Guard
@@ -105,8 +105,8 @@ Klutz
 Mold Breaker
 Super Luck
 Aftermath
-Anticipation
-Forewarn
+Normalize
+Sharpness
 Unaware
 Tinted Lens
 Filter

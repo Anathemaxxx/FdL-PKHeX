@@ -1,15 +1,15 @@
 ———
-Pound
+High Horsepower
 Karate Chop
 Double Slap
-Comet Punch
-Mega Punch
-Pay Day
+Double Iron Bash
+Headlong Rush
+Ceaseless Edge
 Fire Punch
 Ice Punch
 Thunder Punch
 Scratch
-Vise Grip
+Dual Wingbeat
 Guillotine
 Razor Wind
 Swords Dance
@@ -19,7 +19,7 @@ Wing Attack
 Whirlwind
 Fly
 Bind
-Slam
+Stomping Tantrum
 Vine Whip
 Stomp
 Double Kick
@@ -28,14 +28,14 @@ Jump Kick
 Rolling Kick
 Sand Attack
 Headbutt
-Horn Attack
+Lunge
 Fury Attack
 Horn Drill
 Tackle
 Body Slam
 Wrap
 Take Down
-Thrash
+Raging Fury
 Double-Edge
 Tail Whip
 Poison Sting
@@ -94,7 +94,7 @@ Toxic
 Confusion
 Psychic
 Hypnosis
-Meditate
+Breaking Swipe
 Agility
 Quick Attack
 Rage
@@ -108,7 +108,7 @@ Harden
 Minimize
 Smokescreen
 Confuse Ray
-Withdraw
+Wave Crash
 Defense Curl
 Barrier
 Light Screen
@@ -128,17 +128,17 @@ Fire Blast
 Waterfall
 Clamp
 Swift
-Skull Bash
+Meteor Beam
 Spike Cannon
-Constrict
+Liquidation
 Amnesia
-Kinesis
+Dust Devil
 Soft-Boiled
 High Jump Kick
 Glare
 Dream Eater
 Poison Gas
-Barrage
+Scorching Sands
 Leech Life
 Lovely Kiss
 Sky Attack
@@ -146,7 +146,7 @@ Transform
 Bubble
 Dizzy Punch
 Spore
-Flash
+Origin Pulse
 Psywave
 Splash
 Acid Armor
@@ -157,7 +157,7 @@ Bonemerang
 Rest
 Rock Slide
 Hyper Fang
-Sharpen
+Smart Strike
 Conversion
 Tri Attack
 Super Fang
@@ -165,7 +165,7 @@ Slash
 Substitute
 Struggle
 Sketch
-Triple Kick
+Triple Axel
 Thief
 Spider Web
 Mind Reader
@@ -196,7 +196,7 @@ Destiny Bond
 Perish Song
 Icy Wind
 Detect
-Bone Rush
+Quick Throw
 Lock-On
 Outrage
 Sandstorm
@@ -374,7 +374,7 @@ Assurance
 Embargo
 Fling
 Psycho Shift
-Trump Card
+Flip Turn
 Heal Block
 Wring Out
 Power Trick
@@ -457,7 +457,7 @@ Defend Order
 Heal Order
 Head Smash
 Double Hit
-Roar of Time
+Draco Beam
 Spacial Rend
 Lunar Dance
 Crush Grip
@@ -516,9 +516,9 @@ Retaliate
 Final Gambit
 Bestow
 Inferno
-Water Pledge
-Fire Pledge
-Grass Pledge
+Hidden Power Water
+Hidden Power Fire
+Hidden Power Grass
 Volt Switch
 Struggle Bug
 Bulldoze
@@ -587,8 +587,8 @@ Moonblast
 Boomburst
 Fairy Lock
 King’s Shield
-Play Nice
-Confide
+Hidden Power Ice
+Psychic Noise
 Diamond Storm
 Steam Eruption
 Hyperspace Hole
@@ -601,14 +601,14 @@ Venom Drench
 Powder
 Geomancy
 Magnetic Flux
-Happy Hour
+Roar of Time
 Electric Terrain
 Dazzling Gleam
-Celebrate
-Hold Hands
+Psychic Fangs
+First Impression
 Baby-Doll Eyes
 Nuzzle
-Hold Back
+Darkest Lariat
 Infestation
 Power-Up Punch
 Oblivion Wing
